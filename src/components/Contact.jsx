@@ -6,20 +6,20 @@ function Contact() {
       <main>
         <h1>Contact Us</h1>
 
-        <form>
+        <form action='https://formspree.io/f/xdorgkve' method='POST'>
           <div>
             <label>Name</label>
-            <input type="text" required placeholder="abc" />
+            <input type="text" name='Username' required placeholder="abc" />
           </div>
 
           <div>
             <label>Email</label>
-            <input type="email" required placeholder="abc@xyz.com" />
+            <input type="email" name='email' required placeholder="abc@xyz.com" />
           </div>
 
           <div>
             <label>Message</label>
-            <input type="text" required placeholder="Write you query..." />
+            <input type="text" name='message' required placeholder="Write you query..." />
           </div>
 
           <button type="submit">Send</button>
