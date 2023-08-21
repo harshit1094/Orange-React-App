@@ -10,11 +10,11 @@ const Footer = () => {
   return (
     <footer>
         <div>
-            <h1>Orange</h1>
+            <h1>Harshit</h1>
             <p>@All Right Reserved</p>
         </div>
         <div>
-            <h5>Follow Us</h5>
+            <h5>Follow Me</h5>
             <div>
               <a href="https://www.linkedin.com/in/harshit-patel-334584233" target='blank'>
                 Linkedin
