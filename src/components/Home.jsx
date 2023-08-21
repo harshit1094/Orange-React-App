@@ -12,7 +12,7 @@ const Home = () => {
     <>
     <div className='home' id='home'>
         <main>
-            <h1>Orenge</h1>
+            <h1>Harshit</h1>
             <p>solution of all your problems</p>
         </main>
     </div>
@@ -20,19 +20,20 @@ const Home = () => {
       <img src={vg} alt="Graphics" />
       <div>
       <p>
-        Hello,welcome to Orange Technology the one and only  Ai boat company which can give you the best  result of your need.
+       Hello and welcome to my portfolio website ,i am happy to serv you my Services and make your Business
+        successful and Profitable .
       </p>
       </div>
     </div>
 
     <div className="home3" id='about'>
       <div>
-        <h1>Who we are ?</h1>
+        <h1>Who i am ?</h1>
         <p>
-          We are the future of india, the biggest Artificial Inteligent company founded by Harshit Patel in 2030,we are really excited to serv you our services
-          ,we are the no 1 company in Artificial Inteligent in India the next generation Ai boat and Robot manufacturer in India ,the way our companyes members 
-          desing and creat the Ai chat boats and Roboats are just insane,Co Founder Mr Prakash Patel is the best Marketing expert in our incredible company He 
-          love to encourage our employees for doing more marketing of our products and provide new techniks.
+          I am a Web Designer who use  React js. framework for devloping Beautiful , Attractive , Fully Customize 
+          Front-End Client side Ui also , I Love to read Money related ,Personal growth related BOOKs .
+          I also Like to Entertain my Friends when we are working in a Project so they can release their
+          stress releted with the project and they work with there full potential all time.
           
         </p>
        
