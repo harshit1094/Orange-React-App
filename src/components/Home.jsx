@@ -20,7 +20,7 @@ const Home = () => {
       <img src={vg} alt="Graphics" />
       <div>
       <p>
-       Hello and welcome to my portfolio website ,i am happy to serv you my Services and make your Business
+       Hello and welcome to my portfolio website ,i am happy to provid  you my Services and make your Business
         successful and Profitable .
       </p>
       </div>
